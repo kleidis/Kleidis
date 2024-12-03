@@ -1,4 +1,8 @@
+<div align="center">
 
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kleidis&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@kleidis)
+
+</div>
 
 ---
 
