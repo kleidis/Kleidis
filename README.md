@@ -4,9 +4,9 @@
   
 [![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kleidis&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@kleidis)
 
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleidis&show_icons=true&theme=radical)
+
+---
 
 ### Listening:
 
